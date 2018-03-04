@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Slaam Online Shopping</string>
+    <string name="title_activity_sign_up">SignUp</string>
+    <string-array name="categories">
+        <item>fruit</item>
+        <item>Vegetables</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+
+</resources>
